@@ -28,7 +28,7 @@ List are the collection of data. List can be used to store hetrogeneous data.
 
 __Syntax:-__
 ```
-mylist = [1, 5, 'Rohan', 10.8, complex('10+5j', True)]
+mylist = [1, 5, 'Rohan', 10.8, complex('10+5j'), True]
 ```
 
 ### Properties
@@ -55,7 +55,7 @@ sort() | Sorts the list | ```mylist.sort()```
 
 ## Tuple
 
-Tuples are also collection of data they can store heterogenous data.
+Tuples are also collection of data and they can store heterogenous data.
 
 __Syntax:-__
 ```
